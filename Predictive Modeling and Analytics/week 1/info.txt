@@ -1,0 +1,1 @@
+The box-plot shows the relation between the Industry and Profit Margin, this kind of visualization can show which industry achive the better profit margin. In this example we can see that Auto Parts Stores attains the highest profit margin and Home Furnishing Stores attains the lowest.
